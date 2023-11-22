@@ -25,9 +25,7 @@
 .toolbar__88c63 /* toolbar button strikethroughs */ {
 	--status-danger: var(--accent-2);
 }
-/* .expandedFolderIconWrapper__458cf > svg {
-	color: var(--accent-2) !important; */
-}
+
 .divider_b9338f /* unread divider */ {
 	--status-danger: var(--accent-3);
 }
