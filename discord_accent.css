@@ -1,20 +1,5 @@
 :root {
-	/* color of links */
-	--accent-1: hsl(249, 22%, 60%);
-	/* color of unread dividers and some indicators */
-	--accent-2: hsl(249, 22%, 48%);
-	/* color of accented buttons */
-	--accent-3: hsl(249, 22%, 42%);
-	/* color of accented buttons when hovered */
-	--accent-4: hsl(249, 22%, 36%);
-	/* color of accented buttons when clicked */
-	--accent-5: hsl(249, 22%, 30%);
-	/* color of green online dot, change to #23a55a for default green */
-	--online-indicator: var(--accent-2);
-	/* color of mentions and messages that mention you */
-	--mention: hsla(249, 22%, 52%, 0.1);
-	/* color of mentions and messages that mention you when hovered */
-	--mention-hover: hsla(249, 22%, 52%, 0.05);
+
 }
 
 .activeButtonChild__6e162 {
